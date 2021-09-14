@@ -10,7 +10,7 @@ This repository contains the code related to Olympic dataset analysis
 
 
 
-**Function:** I have used groupby() ,unique() ,sort_values(), plot() ,get_dummies(), concat() , head() ,reset_index()
+**Function:** I have used groupby() ,unique() ,sort_values(), plot() ,get_dummies(), concat() , head() ,reset_index(),count()
 
 
 
